@@ -3,7 +3,7 @@ Aquí podrás encontrar los ejemplos y ejercicios de los cursos.
 
 ## Proyectos funcionales 👋
 
-[Web4Testing:](https://github.com/jmagit/Web4Testing) Sitio web (Node.js) de ejemplo donde aplicar casos de prueba WebDriver.
+[Web4Testing:](https://github.com/jmagit/Web4Testing) Sitio web (Node.js) de ejemplo donde aplicar casos de prueba WebDriver y Cypress.
 
 [MOCKWebServer:](https://github.com/jmagit/MOCKWebServer) Servidor (Node.js) con servicios REST para los ejemplos y ejercicios de los cursos de FrontEnd.
 
