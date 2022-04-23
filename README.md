@@ -7,7 +7,7 @@ Aquí podrás encontrar los ejemplos y ejercicios de los cursos.
 
 [MOCKWebServer:](https://github.com/jmagit/MOCKWebServer) Servidor (Node.js) con servicios REST para los ejemplos y ejercicios de los cursos de FrontEnd.
 
-[![Estadisticas](https://github-readme-stats.vercel.app/api?username=jmagit)]
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=jmagit)
 <!--
 **jmagit/jmagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
