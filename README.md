@@ -2,7 +2,7 @@
 
 # Apollo a la formación 🎓
 
-Aquí podrás encontrar los ejemplos y ejercicios de los cursos.
+Aquí podrás encontrar los ejemplos y ejercicios de los cursos. Dispones de una extensa colección de más de 200 repositorios, centrados principalmente en la formación y desarrollo de software, que abarcan desde fundamentos de programación hasta prácticas avanzadas en desarrollo web, backend, DevOps, pruebas y calidad.
 
 ## Proyectos funcionales ⚒
 
