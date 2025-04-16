@@ -1,4 +1,7 @@
+![Logotipo](logo-profile.svg)
+
 # Repositorio de formación 🎓
+
 Aquí podrás encontrar los ejemplos y ejercicios de los cursos.
 
 ## Proyectos funcionales ⚒
