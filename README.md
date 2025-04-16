@@ -1,6 +1,6 @@
 ![Logotipo](logo-profile.svg)
 
-# Repositorio de formación 🎓
+# Apollo a la formación 🎓
 
 Aquí podrás encontrar los ejemplos y ejercicios de los cursos.
 
