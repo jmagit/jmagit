@@ -6,11 +6,11 @@ Aquí podrás encontrar los ejemplos y ejercicios de los cursos. Dispones de una
 
 ## Proyectos funcionales ⚒
 
-[![Web4Testing](https://github-readme-stats.vercel.app/api/pin/?username=jmagit&repo=Web4Testing)](https://github.com/jmagit/Web4Testing) [![MOCKWebServer](https://github-readme-stats.vercel.app/api/pin/?username=jmagit&repo=MOCKWebServer)](https://github.com/jmagit/MOCKWebServer)
+[![Web4Testing](./profile/web-4-testing.svg)](https://github.com/jmagit/Web4Testing) [![MOCKWebServer](./profile/mock-web-server.svg)](https://github.com/jmagit/MOCKWebServer)
 
 ## Estadisticas 📈
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=jmagit&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmagit&langs_count=6&layout=compact)
+![Estadisticas](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
 
 <!--
 **jmagit/jmagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
