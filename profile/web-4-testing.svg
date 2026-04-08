@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Sitio web de ejemplo donde aplicar casos de prueba</tspan><tspan dy="1.2em" x="25">WebDriver y Cypress.</tspan>
+      <tspan dy="1.2em" x="25">Sitio web de ejemplo donde aplicar casos de prueba</tspan><tspan dy="1.2em" x="25">WebDriver y e2e.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
