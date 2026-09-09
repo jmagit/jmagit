@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Javier Martin&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 3954, Total PRs: 11, Total Issues: 0, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 3959, Total PRs: 11, Total Issues: 0, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 126.95752849076256;
+        stroke-dashoffset: 126.95751849428879;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
